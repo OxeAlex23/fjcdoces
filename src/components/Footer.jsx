@@ -1,6 +1,6 @@
 import './styles.css';
 import instaIco from '../assets/insta-ico.png';
-import whatsIco from '../assets/whatsico.svg';
+import whatsIco from '../assets/whatsIco.svg';
 
 function Footer() {
  const phoneNumber = import.meta.env.VITE_PHONE;
