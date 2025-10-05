@@ -1,0 +1,28 @@
+#btn-whats {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: fixed;
+    background-color: transparent;
+    bottom: 50px;
+    right: 20px;
+    cursor: pointer;
+}
+
+#whatsApp-ico {
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-15px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
