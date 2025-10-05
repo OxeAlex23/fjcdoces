@@ -1,4 +1,4 @@
-import Header from "./components/header";
+import Header from "./components/Header";
 import Principal from "./components/Principal";
 import Footer from "./components/Footer";
 import Opinions from "./components/Opinions";
